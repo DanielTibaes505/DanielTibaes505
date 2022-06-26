@@ -2,7 +2,6 @@
 
 - 🔭 Em busca de um estagio front-end Mobile
 - 🌱 Atualmente Estudo React Native
-- 😄 Pronouns: ele/dele
 
 <div style= 'align="center", display: 'flex'>
   <a href="https://github.com/DanielTibaes505">
